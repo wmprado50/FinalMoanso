@@ -1,0 +1,222 @@
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe.config
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.pdb
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\bin\Debug\capaEntidad.dll
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\bin\Debug\capaLogica.dll
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\bin\Debug\capaDatos.dll
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\bin\Debug\capaEntidad.pdb
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\bin\Debug\capaLogica.pdb
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\bin\Debug\capaDatos.pdb
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorLineaCalzado.resources
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.Properties.Resources.resources
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.exe
+C:\Users\carlospalomares\source\repos\finalMoanso\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.pdb
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe.config
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.pdb
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\capaEntidad.dll
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\capaLogica.dll
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\capaDatos.dll
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\capaEntidad.pdb
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\capaLogica.pdb
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\capaDatos.pdb
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorLineaCalzado.resources
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.Properties.Resources.resources
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.exe
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.pdb
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCalzado.resources
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorMateriales.resources
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCategoriaCalzado.resources
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCategoriaMateriales.resources
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorModelo.resources
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorColor.resources
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorMarca.resources
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorProceso.resources
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.ordenIngresoMateriales.resources
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorEmpleado.resources
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.ordenProduccion.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe.config
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\capaEntidad.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\capaLogica.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\capaDatos.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\capaEntidad.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\capaLogica.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\bin\Debug\capaDatos.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmAlmacen.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmCalzadoDatos.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmMaterialDatos.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmProduccion.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCalzado.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCategoriaCalzado.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCategoriaMateriales.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorColor.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorEmpleado.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorLineaCalzado.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorMarca.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorMateriales.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorModelo.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorProceso.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorProveedor.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.ordenIngresoMateriales.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.ordenProduccion.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.Principal.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.Properties.Resources.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.exe
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe.config
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\bin\Debug\capaEntidad.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\bin\Debug\capaLogica.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\bin\Debug\capaDatos.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\bin\Debug\capaEntidad.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\bin\Debug\capaLogica.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\bin\Debug\capaDatos.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmAlmacen.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmCalzadoDatos.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmMaterialDatos.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmProduccion.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCalzado.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCategoriaCalzado.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCategoriaMateriales.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorColor.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorEmpleado.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorLineaCalzado.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorMarca.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorMateriales.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorModelo.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorProceso.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorProveedor.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.ordenIngresoMateriales.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.ordenProduccion.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.Principal.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.Properties.Resources.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.exe
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.pdb
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe.config
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.pdb
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\bin\Debug\capaEntidad.dll
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\bin\Debug\capaLogica.dll
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\bin\Debug\capaDatos.dll
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\bin\Debug\capaEntidad.pdb
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\bin\Debug\capaLogica.pdb
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\bin\Debug\capaDatos.pdb
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmAlmacen.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmCalzadoDatos.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmMaterialDatos.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmProduccion.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCalzado.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCategoriaCalzado.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCategoriaMateriales.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorColor.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorEmpleado.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorLineaCalzado.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorMarca.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorMateriales.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorModelo.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorProceso.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorProveedor.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.ordenIngresoMateriales.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.ordenProduccion.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.Principal.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.Properties.Resources.resources
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.exe
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe.config
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\capaEntidad.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\capaLogica.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\capaDatos.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\capaEntidad.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\capaLogica.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\capaDatos.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmAlmacen.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmCalzadoDatos.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmMaterialDatos.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmProduccion.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCalzado.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCategoriaCalzado.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCategoriaMateriales.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorColor.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorEmpleado.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorLineaCalzado.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorMarca.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorMateriales.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorModelo.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorProceso.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorProveedor.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.ordenIngresoMateriales.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.ordenProduccion.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.Principal.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.Properties.Resources.resources
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.exe
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.pdb
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe.config
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.exe
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\mantenedorLineaCalzado.pdb
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\capaEntidad.dll
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\capaLogica.dll
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\capaDatos.dll
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\capaEntidad.pdb
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\capaLogica.pdb
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\bin\Debug\capaDatos.pdb
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmAlmacen.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmCalzadoDatos.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmMaterialDatos.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.FrmProduccion.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCalzado.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCategoriaCalzado.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorCategoriaMateriales.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorColor.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorEmpleado.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorLineaCalzado.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorMarca.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorMateriales.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorModelo.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorProceso.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.mantenedorProveedor.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.ordenIngresoMateriales.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.ordenProduccion.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.Principal.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.Properties.Resources.resources
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.exe
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\mantenedorLineaCalzado\obj\Debug\mantenedorLineaCalzado.pdb

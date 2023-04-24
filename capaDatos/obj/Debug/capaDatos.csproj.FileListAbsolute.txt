@@ -1,0 +1,63 @@
+C:\Users\carlospalomares\source\repos\finalMoanso\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\carlospalomares\source\repos\finalMoanso\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\carlospalomares\source\repos\finalMoanso\capaDatos\bin\Debug\capaEntidad.dll
+C:\Users\carlospalomares\source\repos\finalMoanso\capaDatos\bin\Debug\capaEntidad.pdb
+C:\Users\carlospalomares\source\repos\finalMoanso\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\carlospalomares\source\repos\finalMoanso\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\carlospalomares\source\repos\finalMoanso\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\Users\carlospalomares\source\repos\finalMoanso\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\carlospalomares\source\repos\finalMoanso\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\capaDatos\bin\Debug\capaEntidad.dll
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\capaDatos\bin\Debug\capaEntidad.pdb
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\carlospalomares\source\repos\proyectoMoanso\mantenedorLineaCalzado\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\capaDatos\bin\Debug\capaEntidad.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\capaDatos\bin\Debug\capaEntidad.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\capaDatos\bin\Debug\capaEntidad.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\capaDatos\bin\Debug\capaEntidad.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectos avances\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\capaDatos\bin\Debug\capaEntidad.dll
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\capaDatos\bin\Debug\capaEntidad.pdb
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Miguel\Source\Repos\ProyectoFinalMoanso1\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\capaDatos\bin\Debug\capaEntidad.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\capaDatos\bin\Debug\capaEntidad.pdb
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\HOME\Downloads\proyecto moanso avance parte 2\mantenedorLineaCalzado\Proyectofinalcopia\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\capaDatos\bin\Debug\capaEntidad.dll
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\capaDatos\bin\Debug\capaEntidad.pdb
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\HOME\Downloads\proyecto final moanso\Proyectofinalcopia\capaDatos\obj\Debug\capaDatos.pdb

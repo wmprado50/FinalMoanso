@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A26721A-29EB-4A73-BBE2-91E3EED7672C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>mantenedorLineaCalzado</RootNamespace>
+    <AssemblyName>mantenedorLineaCalzado</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAlmacen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlmacen.Designer.cs">
+      <DependentUpon>FrmAlmacen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCalzadoDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCalzadoDatos.Designer.cs">
+      <DependentUpon>FrmCalzadoDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMaterialDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMaterialDatos.Designer.cs">
+      <DependentUpon>FrmMaterialDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProduccion.Designer.cs">
+      <DependentUpon>FrmProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenedorCalzado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenedorCalzado.Designer.cs">
+      <DependentUpon>mantenedorCalzado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenedorCategoriaCalzado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenedorCategoriaCalzado.Designer.cs">
+      <DependentUpon>mantenedorCategoriaCalzado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenedorCategoriaMateriales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenedorCategoriaMateriales.Designer.cs">
+      <DependentUpon>mantenedorCategoriaMateriales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenedorColor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenedorColor.Designer.cs">
+      <DependentUpon>mantenedorColor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenedorEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenedorEmpleado.Designer.cs">
+      <DependentUpon>mantenedorEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenedorLineaCalzado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenedorLineaCalzado.Designer.cs">
+      <DependentUpon>mantenedorLineaCalzado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenedorMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenedorMarca.Designer.cs">
+      <DependentUpon>mantenedorMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenedorMateriales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenedorMateriales.Designer.cs">
+      <DependentUpon>mantenedorMateriales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenedorModelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenedorModelo.Designer.cs">
+      <DependentUpon>mantenedorModelo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenedorProceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenedorProceso.Designer.cs">
+      <DependentUpon>mantenedorProceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mantenedorProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mantenedorProveedor.Designer.cs">
+      <DependentUpon>mantenedorProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ordenIngresoMateriales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ordenIngresoMateriales.Designer.cs">
+      <DependentUpon>ordenIngresoMateriales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ordenProduccion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ordenProduccion.Designer.cs">
+      <DependentUpon>ordenProduccion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAlmacen.resx">
+      <DependentUpon>FrmAlmacen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCalzadoDatos.resx">
+      <DependentUpon>FrmCalzadoDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMaterialDatos.resx">
+      <DependentUpon>FrmMaterialDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProduccion.resx">
+      <DependentUpon>FrmProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenedorCalzado.resx">
+      <DependentUpon>mantenedorCalzado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenedorCategoriaCalzado.resx">
+      <DependentUpon>mantenedorCategoriaCalzado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenedorCategoriaMateriales.resx">
+      <DependentUpon>mantenedorCategoriaMateriales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenedorColor.resx">
+      <DependentUpon>mantenedorColor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenedorEmpleado.resx">
+      <DependentUpon>mantenedorEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenedorLineaCalzado.resx">
+      <DependentUpon>mantenedorLineaCalzado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenedorMarca.resx">
+      <DependentUpon>mantenedorMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenedorMateriales.resx">
+      <DependentUpon>mantenedorMateriales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenedorModelo.resx">
+      <DependentUpon>mantenedorModelo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenedorProceso.resx">
+      <DependentUpon>mantenedorProceso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mantenedorProveedor.resx">
+      <DependentUpon>mantenedorProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ordenIngresoMateriales.resx">
+      <DependentUpon>ordenIngresoMateriales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ordenProduccion.resx">
+      <DependentUpon>ordenProduccion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\capaEntidad\capaEntidad.csproj">
+      <Project>{2793e3e9-5140-446a-ab57-4248f0d0c181}</Project>
+      <Name>capaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\capaLogica\capaLogica.csproj">
+      <Project>{b5754900-2702-4fba-834b-34b3dfbe77ac}</Project>
+      <Name>capaLogica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoMarvic.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProduccionCalzado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\procalzado.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\almacen.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\produccion.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zapatos.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empleado.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\proveedor.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\materialescal.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\proceso.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

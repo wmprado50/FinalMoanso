@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4C10C725-15FC-4F96-A03F-D705841678BC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>capaDatos</RootNamespace>
+    <AssemblyName>capaDatos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>MixedRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conexion.cs" />
+    <Compile Include="datCalzado.cs" />
+    <Compile Include="datCategoriaCalzado.cs" />
+    <Compile Include="datCategoriaMateriales.cs" />
+    <Compile Include="datColor.cs" />
+    <Compile Include="datDetalleOrdenIngresoMateriales.cs" />
+    <Compile Include="datDetalleOrdenProduccion.cs" />
+    <Compile Include="datDetalleProcesoProduccion.cs" />
+    <Compile Include="datEmpleado.cs" />
+    <Compile Include="datLineaCalzado.cs" />
+    <Compile Include="datMarca.cs" />
+    <Compile Include="datMateriales.cs" />
+    <Compile Include="datModelo.cs" />
+    <Compile Include="datOrdenCompraMateriales.cs" />
+    <Compile Include="datOrdenIngresoMateriales.cs" />
+    <Compile Include="datOrdenPedidoVenta.cs" />
+    <Compile Include="datOrdenPruduccion.cs" />
+    <Compile Include="datProceso.cs" />
+    <Compile Include="datProcesoProduccion.cs" />
+    <Compile Include="datProveedor.cs" />
+    <Compile Include="datTipoComprobanteCompra.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\capaEntidad\capaEntidad.csproj">
+      <Project>{2793e3e9-5140-446a-ab57-4248f0d0c181}</Project>
+      <Name>capaEntidad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
